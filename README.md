@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkmonarch
-- 👀 I’m interested in cloud technology and application development.
-- 🌱 I’m currently learning AWS,Azure and flutter.
-- 💞️ I’m looking to collaborate on Flutter and Cloud Technology.
+- 👀 I’m interested in blockchain technology and application development.
+- 🌱 I’m currently learning Solidity,Seahorselang and flutter.
+- 💞️ I’m looking to collaborate on Flutter and Web3.
 - 📫 How to reach me https://www.linkedin.com/in/rahul-kulkarni-398738218/
 
 <!---
