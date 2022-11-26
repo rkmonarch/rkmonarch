@@ -22,9 +22,12 @@ I am a developer who loves to develop applications using flutter. I enjoy learni
     <p>&nbsp;</p>
     <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+     <img align="left"  alt="Rust" width="70" height="33" src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/Rust_programming_language_black_logo.png?itok=ppKq-YKO"/>
+      <img align="left"  alt="Solidity" width="70" height="50" src="https://bitcoin.co.uk/wp-content/uploads/2018/07/1200px-Solidity_logo.svg-1024x1024-300x300.png"/>
     <img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
     <img align="left" alt="Polygon" width="70" height="33"  src="https://www.esports.net/wp-content/uploads/2021/10/polygon-cryptogaming.jpg"/>
     <img align="left" alt="Solana" width="70" height="33"  src="https://cdn.coingape.com/wp-content/uploads/2021/07/30192233/solana.jpg"/>
+    
 <p>&nbsp;</p>
 
 
