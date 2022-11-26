@@ -44,9 +44,7 @@ I am a developer who loves to develop applications using flutter. I enjoy learni
   <a href="mailto:rkweb3.00@gmail.com?subject=Hello%Rahul,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rahulll.24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
-   <img src="https://github.com/rkmonarch/rkmonarch/blob/output/github-contribution-grid-snake.gif" alt="snake">
-</p>
+
 
 
 <!---
