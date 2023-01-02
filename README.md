@@ -8,7 +8,7 @@
 
 ### About Me 🚀
 
-I am a developer who loves to develop applications using flutter. I enjoy learning,building and exploring about Blockchain technology. 
+As a highly skilled and experienced blockchain and Flutter developer, I have a strong track record of delivering high-quality software solutions. My expertise in decentralized application development using blockchains such as Solana, Ethereum, Polygon combined with my proficiency in Flutter, allows me to create innovative and effective solutions for a wide range of projects. I am a self-starter with a keen eye for detail, and I am dedicated to staying up-to-date with the latest developments in the field.
 
 ### Frameworks and Technologies I have worked with
 
