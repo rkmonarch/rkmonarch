@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkmonarch" alt="rkmonarch" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rkmonarch" target="blank"><img src="https://img.shields.io/twitter/follow/rkmonarch?logo=twitter&style=for-the-badge" alt="rkmonarch" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rkmonarch" target="blank"><img src="https://img.shields.io/twitter/follow/0xrahulk?logo=twitter&style=for-the-badge" alt="rkmonarch" /></a> </p>
 
 - 🌱 I’m currently learning **App Development and Blockchain Development**
 
