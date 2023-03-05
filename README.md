@@ -1,4 +1,10 @@
-## Hi there 👋, I’m Rahul
+## Heyo! 👋, I’m Rahul Kulkarni
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkmonarch&label=Profile%20views&color=0e75b6&style=flat" alt="rkmonarch" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkmonarch" alt="rkmonarch" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/rkmonarch" target="blank"><img src="https://img.shields.io/twitter/follow/rkmonarch?logo=twitter&style=for-the-badge" alt="rkmonarch" /></a> </p>
 
 - 🌱 I’m currently learning **App Development and Blockchain Development**
 
