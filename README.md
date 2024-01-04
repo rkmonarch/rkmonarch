@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/0xrahulk" target="blank"><img src="https://img.shields.io/twitter/follow/0xrahulk?logo=twitter&style=for-the-badge" alt="rkmonarch" /></a> </p>
 
-- 🌱 I’m currently learning **App Development and Blockchain Development**
+- 🌱 I’m currently learning and exploring **DeFi**
 
-- 💬 Ask me about **Flutter, Android, Blockchain Development, Web3**
-
-- 📫 How to reach me **rkweb3.00@gmail.com**
+- 💬 Ask me about **DeFi, Payments, Flutter, Blockchain Development, Web3**
 
 ### About Me 🚀
 
-As a highly skilled and experienced blockchain and Flutter developer, I have a strong track record of delivering high-quality software solutions. My expertise in decentralized application development using blockchains such as Solana, Ethereum, Polygon combined with my proficiency in Flutter, allows me to create innovative and effective solutions for a wide range of projects. I am a self-starter with a keen eye for detail, and I am dedicated to staying up-to-date with the latest developments in the field.
+I'm a blockchain developer who loves working on decentralized finance (DeFi) projects. I enjoy exploring the latest in technology and specialize in coding with TypeScript, Flutter, Rust, Solidity, JavaScript, Move, and Python. My focus is on creating smart contracts and decentralized applications (DApps), and I'm always excited to discover and implement new advancements in the blockchain space.
 
 ### Frameworks and Technologies I have worked with:
 
@@ -36,6 +34,32 @@ As a highly skilled and experienced blockchain and Flutter developer, I have a s
     <img align="left" alt="Solana" width="70" height="33"  src="https://cdn.coingape.com/wp-content/uploads/2021/07/30192233/solana.jpg"/>
     
 <p>&nbsp;</p>
+<br>
+
+### Projects 🌱
+
+<details>
+	<summary> Catalog of the projects I've developed for hackathons or learning purposes</summary>
+
+| Name | Description | Source Code | Deployed at | Built at |
+|:----:|:------------|:----:|:-----------:|:----:|
+| SyncX | Make the most of your time and audience Manage and monetise all your interactions. Host 1:1 sessions and webinars, answer queries, sell digital products and more. | [Repo](https://github.com/rkmonarch/SyncX) | [Vercel](https://syncx.vercel.app/) | 🏅[HackFS 2023](https://ethglobal.com/events/hackfs2023)
+| Rigel Finance | A decentralized vault management protocol that enables anyone to create vaults. Create and deploy their own strategy, or join an existing vault and start earning yield on their capital. |  | | Aptos Winter School
+| Pay . App | Simple Elegant Smooth - A Payment Application that makes all your payments hassle go away | [Repo](https://github.com/fetcchX/pay-wallet/)| [Framer](https://pay-dot.xyz/) | [Fetcch](https://fetcch.xyz/)
+| Finn | Finn is a Web3 version of smallcase with token investment UX improvement in the DeFi space. Instead of micro-management of the portfolio, we provide a simple interface to create a bucket of tokens and invest in them in a single transaction. | [Repo](https://github.com/neel-ds/finn) |  | 🏅[EthIndia 2023](https://devfolio.co/projects/finn-6e20)
+| DevJam | A tokenized platform of event streaming for gamers, artist & creators| [Repo](https://github.com/senali-d/DevJam) | [Vercel](https://dev-jam-huddle.vercel.app/) | [VideoJAM](https://devfolio.co/projects/devjam-2706)
+| Crypto Wallet | Non custodial wallet created in flutter for EVM based chains. | [Repo](https://github.com/rkmonarch/crypto_wallet) | | 
+| Lens-Client example | The repository is a demonstration of how to use the Lens client SDK. It provides a practical showcase of integrating the Lens Protocol into your applications using the provided client SDK. | [Repo](https://github.com/rkmonarch/lensclient-example)
+| Aptos Pay | Request payments on Aptos by scanning the QR code, easy to use and sessions based management | [Repo](https://github.com/rkmonarch/Aptos-Pay)
+| TokenX | It provides an interactive no-code platform that allows users to create a NFT collection on XDC network. TokenX empowers creators to build thriving web3 communities on XDC network. We desire to provide a launchpad that simplifies community, monetization, and growth. It also provides a developer tool to airdrop NFTs in batches just by providing a recipients list. This is powerful and enhances the adaptability of an easy-to-go launchpad. | [Repo](https://github.com/vrajdesai78/TokenX) | [Vercel](https://token-xdc.vercel.app/) | 🏅[dApp-A-thon Season 2](https://devpost.com/software/tokenx)
+| RouteX | Ensuring authenticity, elevating supply chain operations: Provenance powered by RouteX | [Repo](https://github.com/neel-ds/route-x) | [Vercel](https://route-x.vercel.app/) | 🏅[Web3Apps](https://devpost.com/software/routex-ak1jf2)
+| FitChain | Empower your fitness journey with the decentralized fitness platform | [Repo](https://github.com/neel-ds/fitChain) | [Vercel](https://fitchain.vercel.app/) | 🏅[HackFit 2](https://devpost.com/software/fitchain)
+| Ocean Dive | Deep, Dive & Discover| [Repo](https://github.com/vrajdesai78/Ocean-Dive) |  | 🏅[DeepDiveHacks](https://devpost.com/software/ocean-drive)
+| Sol Share | To make transactions with benefit of saving the contacts and getting NFTs as reward.| [Repo](https://github.com/rkmonarch/sol-share) | | 🏅[Hack-A-Miners](https://devfolio.co/projects/sol-share-d965)
+| Sonate | Sonate is a Web3 version of Linktree with on-chain features. You can create your social profile easily, and it will provide badges to your profile based on your on-chain activities and also show your top NFTs that you hold. You can flex your social profile with your audience by sharing a profile link, and you can receive tips directly in your wallet. | [Repo](https://github.com/neel-ds/sonate) | [Vercel](https://sonate.vercel.app/) | 🏅[Hyperdrive](https://dorahacks.io/buidl/7656)
+		 
+</details>
+
 <br>
 
 ### Blogs :
