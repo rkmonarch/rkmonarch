@@ -16,25 +16,33 @@
 
 As a highly skilled and experienced blockchain and Flutter developer, I have a strong track record of delivering high-quality software solutions. My expertise in decentralized application development using blockchains such as Solana, Ethereum, Polygon combined with my proficiency in Flutter, allows me to create innovative and effective solutions for a wide range of projects. I am a self-starter with a keen eye for detail, and I am dedicated to staying up-to-date with the latest developments in the field.
 
-### Frameworks and Technologies I have worked with
+### Frameworks and Technologies I have worked with:
 
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-	<img align="left" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img align="left" alt="Move" width="50" height="40" src="https://github.com/rkmonarch/rkmonarch/assets/89126159/e8d0e6dc-a296-4f2a-a86c-71b4755608b5?"/>
+<img align="left" alt="Rust" width="50" height="40" src="https://github.com/rkmonarch/rkmonarch/assets/89126159/dbe29f47-c40a-4423-9e3f-260d8303396c"/>
+
+ <img align="left" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
     <p>&nbsp;</p>
     <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-     <img align="left"  alt="Rust" width="70" height="33" src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/Rust_programming_language_black_logo.png?itok=ppKq-YKO"/>
       <img align="left"  alt="Solidity" width="70" height="50" src="https://bitcoin.co.uk/wp-content/uploads/2018/07/1200px-Solidity_logo.svg-1024x1024-300x300.png"/>
     <img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-    <img align="left" alt="Polygon" width="70" height="33"  src="https://www.esports.net/wp-content/uploads/2021/10/polygon-cryptogaming.jpg"/>
     <img align="left" alt="Solana" width="70" height="33"  src="https://cdn.coingape.com/wp-content/uploads/2021/07/30192233/solana.jpg"/>
     
 <p>&nbsp;</p>
+<br>
 
+### Blogs :
+
+- <a href="https://medium.com/@rkmonarch/how-depin-projects-are-leveraging-solana-to-build-the-decentralized-physical-network-c129db29db48">How DePIN projects are leveraging Solana to build the decentralized Physical Network</a>
+- <a href="https://medium.com/@rkmonarch/biometrically-authenticated-data-encryption-and-decryption-in-flutter-ea1a4b4526e">Biometrically Authenticated Data Encryption and Decryption in Flutter ✨🔒</a>
+- <a href="https://medium.com/@rkmonarch/building-lens-profiles-with-lensclient-sdk-a-step-by-step-guide-b65bfae688a2">Building Lens Profiles with LensClient SDK: A Step-by-Step Guide</a>
+- <a href="https://medium.com/@rkmonarch/crypto-wallet-65595331ea54">💰 Crypto Wallet</a>
 
 <br>
 
