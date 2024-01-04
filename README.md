@@ -35,6 +35,7 @@ I'm a blockchain developer who loves working on decentralized finance (DeFi) pro
     
 <p>&nbsp;</p>
 <br>
+<br>
 
 ### Projects 🌱
 
