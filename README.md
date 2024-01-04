@@ -21,6 +21,7 @@ As a highly skilled and experienced blockchain and Flutter developer, I have a s
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" alt="Next" height="30" width="30" src="https://github.com/rkmonarch/rkmonarch/assets/89126159/c688c6c0-9e52-4936-9fac-49006ff13569"/>
 <img align="left" alt="Move" width="50" height="40" src="https://github.com/rkmonarch/rkmonarch/assets/89126159/e8d0e6dc-a296-4f2a-a86c-71b4755608b5?"/>
 <img align="left" alt="Rust" width="50" height="40" src="https://github.com/rkmonarch/rkmonarch/assets/89126159/dbe29f47-c40a-4423-9e3f-260d8303396c"/>
 
@@ -29,8 +30,8 @@ As a highly skilled and experienced blockchain and Flutter developer, I have a s
     <img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
     <p>&nbsp;</p>
-    <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img align="left"  alt="Solidity" width="70" height="50" src="https://bitcoin.co.uk/wp-content/uploads/2018/07/1200px-Solidity_logo.svg-1024x1024-300x300.png"/>
+    <img align="left" height="40" width="70" alt="TypeScript" src="https://github.com/rkmonarch/rkmonarch/assets/89126159/6b3b3dcb-2547-411e-8152-b193100aa2a7"/> 
+     <img align="left"  alt="Solidity" width="70" height="50" src="https://bitcoin.co.uk/wp-content/uploads/2018/07/1200px-Solidity_logo.svg-1024x1024-300x300.png"/>
     <img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
     <img align="left" alt="Solana" width="70" height="33"  src="https://cdn.coingape.com/wp-content/uploads/2021/07/30192233/solana.jpg"/>
     
