@@ -64,7 +64,7 @@ I'm a blockchain developer who loves working on decentralized finance (DeFi) pro
 <br>
 
 ### Blogs :
-
+- <a href="https://writings.fetcch.xyz/exploring-the-defi-state-of-aptos"> Exploring the DeFi State of Aptos </a>
 - <a href="https://medium.com/@rkmonarch/how-depin-projects-are-leveraging-solana-to-build-the-decentralized-physical-network-c129db29db48">How DePIN projects are leveraging Solana to build the decentralized Physical Network</a>
 - <a href="https://medium.com/@rkmonarch/biometrically-authenticated-data-encryption-and-decryption-in-flutter-ea1a4b4526e">Biometrically Authenticated Data Encryption and Decryption in Flutter ✨🔒</a>
 - <a href="https://medium.com/@rkmonarch/building-lens-profiles-with-lensclient-sdk-a-step-by-step-guide-b65bfae688a2">Building Lens Profiles with LensClient SDK: A Step-by-Step Guide</a>
