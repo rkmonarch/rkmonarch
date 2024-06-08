@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning and exploring **DeFi**
 
-- 💬 Ask me about **DeFi, Payments, Flutter, Blockchain Development, Web3**
+- 💬 Ask me about **DeFi, Payments, Mobile, Blockchain, Solana, Web3**
 
 ### About Me 🚀
 
-I'm a blockchain developer who loves working on decentralized finance (DeFi) projects. I enjoy exploring the latest in technology and specialize in coding with TypeScript, Flutter, Rust, Solidity, JavaScript, Move, and Python. My focus is on creating smart contracts and decentralized applications (DApps), and I'm always excited to discover and implement new advancements in the blockchain space.
+I'm a blockchain developer who loves working on decentralized finance (DeFi) projects. I enjoy exploring the latest in technology and specialize in coding with TypeScript, Flutter, Rust, Solidity, JavaScript, and Move. My focus is on creating smart contracts and decentralized applications (DApps), and I'm always excited to discover and implement new advancements in the blockchain space. I particularly enjoy working on projects that connect multiple blockchains. Outside of development, I like hanging out with my friends, traveling to new places, and spending time at the beach 🏝️.
 
 ### Frameworks and Technologies I have worked with:
 
@@ -62,6 +62,7 @@ I'm a blockchain developer who loves working on decentralized finance (DeFi) pro
 <br>
 
 ### Blogs :
+- <a href="https://medium.com/@rkmonarch/securing-solana-transactions-with-blowfish-a-comprehensive-guide-877d7c6e3022"> Securing Solana Transactions using Blowfish 🛡️ </a>
 - <a href="https://writings.fetcch.xyz/exploring-the-defi-state-of-aptos"> Exploring the DeFi State of Aptos </a>
 - <a href="https://medium.com/@rkmonarch/how-depin-projects-are-leveraging-solana-to-build-the-decentralized-physical-network-c129db29db48">How DePIN projects are leveraging Solana to build the decentralized Physical Network</a>
 - <a href="https://medium.com/@rkmonarch/biometrically-authenticated-data-encryption-and-decryption-in-flutter-ea1a4b4526e">Biometrically Authenticated Data Encryption and Decryption in Flutter ✨🔒</a>
