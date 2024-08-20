@@ -43,6 +43,8 @@ I'm a software developer with over 4 years of experience, including 3+ years bui
 
 ## 📚 Blogs
 
+- [Solana Program Security: Best Practices to Prevent Exploits](https://medium.com/@rkmonarch/solana-program-security-best-practices-to-prevent-exploits-f88b4a427bce) 
+- [A Beginner’s Guide to Solana Blinks](https://medium.com/@rkmonarch/a-beginners-guide-to-solana-blinks-2ad3b4a24cb8)
 - [Securing Solana Transactions using Blowfish 🛡️](https://medium.com/@rkmonarch/securing-solana-transactions-with-blowfish-a-comprehensive-guide-877d7c6e3022)
 - [Exploring the DeFi State of Aptos](https://writings.fetcch.xyz/exploring-the-defi-state-of-aptos)
 - [How DePIN projects are leveraging Solana to build the decentralized Physical Network](https://medium.com/@rkmonarch/how-depin-projects-are-leveraging-solana-to-build-the-decentralized-physical-network-c129db29db48)
