@@ -6,7 +6,7 @@ Building cool stuff in web3 and helping others do the same!
 - [Solana](https://solana.com/) Fellow
 - Active [Superteam](https://superteam.fun/) Member
 - 4+ years software development experience
-- 3+ years specialized blockchain experience
+- 3+ years of blockchain development experience
 - Built multiple production apps and SDKs
 - Helping developers build on-chain
 - Experience across 10+ blockchain networks
