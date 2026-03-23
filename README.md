@@ -21,7 +21,7 @@ Building cool stuff in web3 and helping others do the same!
 💬 Ping me about **Solana**, **React Native**, **TypeScript**, **Web3**, **Blockchain**
 
 ## Find Me
-- [Twitter](https://twitter.com/0xrahulk)
+- [Twitter](https://twitter.com/0xrahul)
 - [Linkedin](https://www.linkedin.com/in/0xrahul)
 - [Email](mailto:rkweb3.00@gmail.com)
 
